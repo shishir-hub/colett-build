@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b033cca.css",
+    "main.js": "/static/js/main.c11f35cf.js",
+    "static/media/rhero.jpg": "/static/media/rhero.9bd7ab877aaeb6f39d64.jpg",
+    "static/media/ihero.jpg": "/static/media/ihero.14e5e49c796d4269a282.jpg",
+    "static/media/i1.jpg": "/static/media/i1.0ae4e5799b6f535020df.jpg",
+    "static/media/i2.jpg": "/static/media/i2.54493547d0838b624e4c.jpg",
+    "static/media/mansion7.jpg": "/static/media/mansion7.90053fc68db6ed193300.jpg",
+    "static/media/mansion6.jpg": "/static/media/mansion6.6fe30ff7b8d3917e98a3.jpg",
+    "static/media/mansion1.avif": "/static/media/mansion1.4356a87c2829b05caf90.avif",
+    "static/media/landlord.jpg": "/static/media/landlord.e76ee9c8517cc41aeb31.jpg",
+    "static/media/mansion8.jpg": "/static/media/mansion8.24113ac6cfd89ffa6489.jpg",
+    "static/media/mansion2.webp": "/static/media/mansion2.f80a5f07836265fc5aa4.webp",
+    "static/media/mansion4.jpg": "/static/media/mansion4.80da7a35f060b1285fc9.jpg",
+    "static/media/06.jpg": "/static/media/06.4b1b46477a26961a9ecf.jpg",
+    "static/media/resource.jpg": "/static/media/resource.89f5ed9f4a1a988ad93d.jpg",
+    "static/media/hero2.jpg": "/static/media/hero2.85b416bd06f95aaa84a5.jpg",
+    "static/media/mansion5.jpg": "/static/media/mansion5.8abc37dbd1cc00a6fbbb.jpg",
+    "static/media/mansion3.jpg": "/static/media/mansion3.f8be29ea02a633e6d24f.jpg",
+    "static/media/ss1.jpg": "/static/media/ss1.b8fd251b08d5d2362c44.jpg",
+    "static/media/s2.jpg": "/static/media/s2.065bf5a45c1422be7dbc.jpg",
+    "static/media/logo1.JPG": "/static/media/logo1.d7a8e387045c5a5e2b94.JPG",
+    "static/media/boy1.jpg": "/static/media/boy1.bacf46463ba3aa23d4e0.jpg",
+    "static/media/aml.jpg": "/static/media/aml.c50adb1ee8a4a6dff1fc.jpg",
+    "static/media/03.jpg": "/static/media/03.41dd1f3a00d949368808.jpg",
+    "static/media/ss2.jpg": "/static/media/ss2.e3e9b63ce96bf27e4c22.jpg",
+    "static/media/boy2.jpg": "/static/media/boy2.887b63baf355a129f45b.jpg",
+    "static/media/girl.jpg": "/static/media/girl.3237010dbdef9708e514.jpg",
+    "static/media/companies-house.png": "/static/media/companies-house.fd1271655b7c4bdef6e6.png",
+    "index.html": "/index.html",
+    "main.1b033cca.css.map": "/static/css/main.1b033cca.css.map",
+    "main.c11f35cf.js.map": "/static/js/main.c11f35cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b033cca.css",
+    "static/js/main.c11f35cf.js"
+  ]
+}
